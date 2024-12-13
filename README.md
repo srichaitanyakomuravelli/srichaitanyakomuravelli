@@ -2,6 +2,7 @@
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Sri+Chaitanya's+GitHub+Profile)
 
+
 ### 💻 About Me
 
 Hi there! I'm an aspiring software developer and tech enthusiast, always curious to explore the boundaries of technology. Whether it's designing intuitive websites, solving real-world problems with software, or leveraging cloud computing for scalable solutions, I'm all in.
@@ -30,10 +31,13 @@ Hi there! I'm an aspiring software developer and tech enthusiast, always curious
    - 🛠️ **Tech Stack**: HTML, CSS, JavaScript.
 
 #### 2. **Budget-Planner**
+   
    📌 **Overview**: A comprehensive financial management platform for personal and collaborative use.
-   - 💡 **Highlights**: AI-driven insights, real-time expense tracking, and cloud synchronization.
-   - 🔐 **Security**: End-to-end encryption ensures robust data protection.
-
+   - 💡 **Key Features**:
+     - **Real-Time Analytics**: Visual dashboards and predictive analytics for informed decision-making.
+     - **Security**: End-to-end encryption and GDPR compliance for data privacy.
+   - 💡 **Highlights**:
+      - A robust financial management tool offering automated expense tracking, multi-currency support, customizable budget templates,  to simplify personal and organizational budgeting.
 ---
 
 ### 🏅 Certifications
