@@ -1,6 +1,5 @@
-# 🌟 I'm Sri Chaitanya Komuravelli 🚀
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Sri+Chaitanya's+GitHub+Profile)
+![Header](https://github.com/srichaitanyakomuravelli/header-image-name/blob/main/github-header-image.png)
 
 
 ### 💻 About Me
