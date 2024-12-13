@@ -5,7 +5,7 @@
 
 ### 💻 About Me
 
-Hi there! I'm an aspiring software developer and tech enthusiast, always curious to explore the boundaries of technology. Whether it's designing intuitive websites, solving real-world problems with software, or leveraging cloud computing for scalable solutions, I'm all in.
+Passionate and engaged in the pursuit of innovations, to create innovative solutions, deep immersion in code, new technologies, the aim is always to contribute towards something meaningful in the world of software development.
 
 - 🎓 **Education**: B.Tech at SR University, Warangal (Current CGPA: 8.50, graduating in 2026).
 - 🌟 **Mission**: To blend creativity and technical skills to develop meaningful projects and contribute to the tech community.
@@ -20,24 +20,8 @@ Hi there! I'm an aspiring software developer and tech enthusiast, always curious
 - **Databases**: `MySQL`, `MongoDB`.
 - **Cloud Platforms**: `AWS`.
 - **Tools & IDEs**: `Visual Studio Code`.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srichaitanyakomuravelli&show_icons=true&locale=en&layout=compact" alt="srichaitanyakomuravelli" /></p>
 
----
-
-### 🌟 Featured Projects
-
-#### 1. **Hospital Management System**
-   📌 **Overview**: A user-friendly static website to streamline hospital operations and enhance accessibility.
-   - 📋 **Features**: Doctor schedules, department details, admission forms, and service catalog.
-   - 🛠️ **Tech Stack**: HTML, CSS, JavaScript.
-
-#### 2. **Budget-Planner**
-   
-   📌 **Overview**: A comprehensive financial management platform for personal and collaborative use.
-   - 💡 **Key Features**:
-     - **Real-Time Analytics**: Visual dashboards and predictive analytics for informed decision-making.
-     - **Security**: End-to-end encryption and GDPR compliance for data privacy.
-   - 💡 **Highlights**:
-      - A robust financial management tool offering automated expense tracking, multi-currency support, customizable budget templates,  to simplify personal and organizational budgeting.
 ---
 
 ### 🏅 Certifications
