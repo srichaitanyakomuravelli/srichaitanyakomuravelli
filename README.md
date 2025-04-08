@@ -57,7 +57,7 @@ Connect with me and let’s make magic happen:
 
 <a href="https://www.linkedin.com/in/srichaitanyakomuravelli/?trk=opento_sprofile_details" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srichaitanya komuravelli" height="30" width="40"/>LinkedIn</a>
 
-<a href="mailto:srichaitanya103@gmail.com">
+<a href="mailto:srichaitanya.komuravelli03@gmail.com">
     <img src="https://github.com/srichaitanyakomuravelli/header-image-name/blob/main/mail%20(1).png">Mail
   </a>
 
